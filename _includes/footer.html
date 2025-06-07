@@ -1,0 +1,33 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Visarut Huayshelake</h2>
+    <p class="small"> Applied Mathematics and Computational Science</p>
+    <p class="small"> Faculty of Science Chulalongkorn University</p>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+            <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}           
+            {%- endif -%}
+            </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+    </div>
+      <div>
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.last_name }}. Last updated: {{ "now" | date: '%B %d, %Y' }}.
+      </div>
+  </div>
+
+</footer>

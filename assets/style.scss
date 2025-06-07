@@ -1,0 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+// Style สำหรับ Class .small ที่อยู่ภายใน Footer (เฉพาะเจาะจงกว่า)
+.site-footer .small {
+  font-size: 0.9em; /* ปรับขนาดตัวอักษรให้เล็กลง (ปรับค่า 0.9 ตามต้องการ) */
+  color: #777;     /* ปรับสีตัวอักษรเป็นสีเทา (ใช้โค้ดสีอื่นได้ เช่น #555) */
+  /* อาจจะต้องปรับ margin ด้วย */
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
