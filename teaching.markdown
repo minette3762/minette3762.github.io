@@ -5,7 +5,7 @@ permalink: /teach/
 ---
 ## Teaching Assistant
 - **2025 (First Semester)**  
-  2301115 Calculus for Business - BBA 
+  2301115 Calculus for Business - BBA  
   Provided exercise feedback, and grading.
 
 - **2024 (Summer)**  
@@ -13,7 +13,7 @@ permalink: /teach/
   Provided exercise feedback for incoming students.
 
 - **2024 (Second Semester)**  
-  2301108 Calculus 2 - ISE 
+  2301108 Calculus 2 - ISE  
   Assisted with tutorials, and grading.
 
 <!-- ---
