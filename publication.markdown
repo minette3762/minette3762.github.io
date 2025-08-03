@@ -10,9 +10,9 @@ permalink: /publications/
   **Authors:** Huayshelake, V. & Mekchay, K.  
 
 ## Thesis
-- **Two-Dimensional Simulation of Contaminant Transport and Treatments in Groundwater System**  
+- [**Two-Dimensional Simulation of Contaminant Transport and Treatments in Groundwater System**](/publications/cuthesis)  
   _Master thesis, Chulalongkorn University, 2025._
-- **Lagrange-Galerkin Scheme for Groundwater Contaminant Models**  
+- [**Lagrange-Galerkin Scheme for Groundwater Contaminant Models**](/publications/kuthesis)  
   _Master thesis, Kanazawa University, 2024._
 
 

@@ -5,7 +5,7 @@ permalink: /teach/
 ---
 ## Teaching Assistant
 - **2025 (First Semester)**  
-  2301115 Calculus for Business - BBA  
+  2301115 Calculus for Business 1 - BBA  
   Provided exercise feedback, and grading.
 
 - **2024 (Summer)**  

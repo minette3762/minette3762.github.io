@@ -4,4 +4,18 @@ title:  "Welcome to my website!"
 date:   2025-07-14 11:41:34 +0700
 categories: others
 ---
-Hello World!
+*1 min read*
+
+Hello and welcome. I’m Visarut Huayshelake, a Ph.D. student at Chulalongkorn University working in mathematical model applied with numerical methods.
+{: style="text-align: justify"}
+
+This site has two main purposes: to serve as a professional portfolio for my academic work and to be a space for me to share more personal thoughts on my blog.
+{: style="text-align: justify"}
+
+You can navigate to what interests you most:
+- **Academic Work:** For my CV, published papers, and research projects.
+- **Personal Blog:** For my reflections on academia, hobbies, and everything in between.
+{: style="text-align: justify"}
+
+I'm happy you're here and I hope you find what you're looking for.
+{: style="text-align: justify"}

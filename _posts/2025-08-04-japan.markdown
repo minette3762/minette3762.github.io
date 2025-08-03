@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "My Kanazawa Story: Part 1"
+date:   2025-08-04 01:43:34 +0700
+categories: japan
+---
+*1 min read*
+
+In 2023, as a DPST Scholarship student, I had the chance to conduct mathematical research for one year at Kanazawa University (金沢大学) in the historic city of Kanazawa. This blog is about more than just my studies; it’s about how living in Japan opened my world and helped me find myself.
+{: style="text-align: justify"}
+
+<div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; align-items: flex-start; margin: 2em 0;">
+  <div style="text-align: center;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3252.033664956529!2d136.6562053152587!3d36.56132598000806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff8336e7e3e7e2d%3A0x7e6e5e6e5e6e5e6e!2sKanazawa%20City%20Hall%2C%20Ishikawa%2C%20Japan!5e0!3m2!1sen!2sth!4v1691145600000!5m2!1sen!2sth"
+      width="400"
+      height="300"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+    <div style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+      <em>Map: Kanazawa City, Ishikawa, Japan</em>
+    </div>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/kanazawa.png" alt="Kanazawa View 1" style="max-width: 300px; width: 100%; border-radius: 8px;">
+    <div style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+      <em>Views of Kanazawa City</em>
+    </div>
+  </div>
+</div>
+
+## About 金沢 
+Kanazawa is the capital city of Ishikawa Prefecture, located in Japan's Chūbu region. The journey from Tokyo is about 2.5 hours by Shinkansen. The total trip from Narita Airport (NRT) takes around 4 hours, while the journey from Kansai International Airport (KIX) is about 3.5 hours by train.
+{: style="text-align: justify"}
+
+The city's true charm lies in its perfect blend of *past* and *present*. While one side of the city is filled with history, like the stunning Kenrokuen Garden (兼六園) and its enchanting old town districts - Higashi Chaya District (ひがし茶屋街), the other is a vibrant, modern city, home to the world-renowned 21st Century Museum of Contemporary Art (金沢21世紀美術館). Living here truly feels like traveling through time every day.
+{: style="text-align: justify"}
+
+<div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin: 2em 0;">
+  <div style="text-align: center;">
+    <img src="/assets/kenro.png" alt="Kenrokuen Garden" style="max-width: 300px; width: 100%; border-radius: 8px;">
+    <div style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+      <em>Kenrokuen Garden (兼六園)</em>
+    </div>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/contemp.png" alt="21st Century Museum" style="max-width: 300px; width: 100%; border-radius: 8px;">
+    <div style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+      <em>21st Century Museum of Contemporary Art (金沢21世紀美術館)</em>
+    </div>
+  </div>
+</div>
+
+I hope this gives you a beautiful picture of Kanazawa!. For the next post, I’ll take you inside the university gates to share my experience in the lab. See you in the next post! じゃね👋
+{: style="text-align: justify"}
