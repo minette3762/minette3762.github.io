@@ -5,8 +5,9 @@ permalink: /teach/
 ---
 ## Teaching Assistant
 - **2/2025**  
-  2301108 Calculus 2 - ISE
+  2301108 Calculus 2 - ISE  
   Provided feedback for quiz.
+  
 - **1/2025**  
   2301115 Calculus for Business 1 - BBA  
   Provided exercise feedback, and grading.
