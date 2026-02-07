@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Download my CV (PDF)](/assets/Visarut_resume.pdf)
+[Download my CV (PDF)](/assets/CV-Visarut-New.pdf)

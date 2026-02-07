@@ -5,6 +5,10 @@ permalink: /publications/cuthesis/
 ---
 ## Two-Dimensional Simulation of Contaminant Transport and Treatments in Groundwater System
 
+<a href="https://github.com/minette3762/CU-Thesis">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="45" height="45">
+</a>
+
 This work addresses the critical issue of groundwater contamination. It aims to create a realistic two-dimensional model to simulate how pollutants move through groundwater systems over time. The model specifically accounts for transient groundwater flow in heterogeneous aquifer. The study also evaluates the effectiveness of two common clean-up techniques: **Pump and Treat** (P&T) and **Permeable Reactive Barriers** (PRB).
 {: style="text-align: justify"}
 

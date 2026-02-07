@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 ## Proceedings
 
-- **Numerical Simulation of Contaminant in Transient Groundwater System**  
+- [**Numerical Simulation of Contaminant in Transient Groundwater System**](/assets/Visarut_Proceedings.pdf)  
   _Presented at the 29th Annual Meeting of Mathematics (AMM 2025)._  
-  **Authors:** Huayshelake, V. & Mekchay, K.  
+  Authors: **Huayshelake, V.** & Mekchay, K.  
 
 ## Thesis
 - [**Two-Dimensional Simulation of Contaminant Transport and Treatments in Groundwater System**](/publications/cuthesis)  
